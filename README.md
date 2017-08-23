@@ -7,7 +7,7 @@ I am an Engineering Student. This is a web document of my 4 day Fablab hands-on 
 <p>The fab lab movement is closely aligned with the DIY, the open source hardware and the free and open source movement, and shares philosophy as well as technology with them.</p>
 ### ***3D Printer***
 <p>3D printing, also known as additive manufacturing (AM), refers to processes used to create a three-dimensional object[1] in which layers of material are formed under computer control to create an object. Objects can be of almost any shape or geometry and are produced using digital model data from a 3D model or another electronic data source such as an Additive Manufacturing File (AMF) file. STL is one of the most common file types that 3D printers can read.3D printing or AM builds a three-dimensional object from computer-aided design (CAD) model or AMF file by successively adding material layer by layer.<br>
-[IMG_20170823_152101](E:/github/photos)
+[IMG_20170823_152101](E:/github/photos)<br>
 You can use the [editor on GitHub](https://github.com/salwathasveen/salwathasveen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
