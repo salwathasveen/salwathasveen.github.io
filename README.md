@@ -12,33 +12,15 @@ I am an Engineering Student. This is a web document of my 4 day Fablab hands-on 
 <p>A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters look like computer printers. The computer controls the movement of a sharp blade. This blade is used to cut out shapes and letters from sheets of thin self-adhesive plastic (vinyl).
 
 A symbol / label can be produced using a Vinyl Cutter such as a ‘Sticker Machine’ or a ‘Craftrobo’. These machines are controlled by a computer and operate similar to a printer. Essentially they cut out shapes in adhesive vinyl. The vinyl can then be stuck onto almost any surface</p>
-You can use the [editor on GitHub](https://github.com/salwathasveen/salwathasveen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
