@@ -1,9 +1,10 @@
 
-## ABOUT
+## **ABOUT**
 I am an Engineering Student. This is a web document of my 4 day Fablab hands-on workshop
 
 ## **FABLAB**<br>
-
+<p>Fab lab is a small-scale workshop offering digital fabrication.A fab lab is typically equipped with an array of flexible computer-controlled tools that cover several different length scales and various materials, with the aim to make "almost anything". This includes technology-enabled products generally perceived as limited to mass production.</p>
+<p>The fab lab movement is closely aligned with the DIY, the open source hardware and the free and open source movement, and shares philosophy as well as technology with them.</p>
 You can use the [editor on GitHub](https://github.com/salwathasveen/salwathasveen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
